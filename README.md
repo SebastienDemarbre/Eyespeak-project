@@ -9,11 +9,11 @@ Another clarification is necessary :
 The prototype used to run this project was built by us. 
 So, the camera was and the filmed image was inverted, that is why we used methods to reinvert it.
 
-Now, if you want to use this code follow these steps (We ran it on CodeBlocks (Windows 7) ) :
-1)Download OpenFrameworks (http://openframeworks.cc/) 
-2)Download OpenCV (http://opencv.org/)
-3)Create a new project using the OpenFramework ProjectGenerator (you will find it in : of_path\projectGenerator) 
-  You don't have to select addons, just create a default project
+Now, if you want to use this code follow these steps (We ran it on CodeBlocks (Windows 7) ) :  
+1)Download OpenFrameworks (http://openframeworks.cc/)   
+2)Download OpenCV (http://opencv.org/)  
+3)Create a new project using the OpenFramework ProjectGenerator (you will find it in : of_path\projectGenerator)   
+  You don't have to select addons, just create a default project  
 4)Follow these steps to use openCV with CodeBlocks (that's the way we used) :
     
             Here is the step I followed to set code::blocks-10.04 global compiler setting for OpenCV, in Windows 7 64 bit.
