@@ -1,6 +1,8 @@
 # Eyespeak-project
 C++ code using in Eyespeak Project 
 
+(It was a teamwork, so I did not have control on some parts of the code. So, I am sorry if some parts are "ugly" )
+
 In the code, you can see some /////ACAPELA/////  
 and then commented code. In fact, that's the part that activate the vocal synthesis.
 If you want to use it, you need a license. To have it, contact the "Acapela" group (http://www.acapela-group.com)
